@@ -15,8 +15,9 @@
 
 <div align="center">  
   <a href="https://www.instagram.com/rafalexandrelopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href="https://www.facebook.com/rafael.alexandre.54540218" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white"</a>
-  <a href="https://www.linkedin.com/in/rafael-alexandre-b9359b268/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://www.facebook.com/rafael.alexandre.54540218" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/rafael-alexandre-b9359b268/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=CllgCKCGmTtsqwHzRsKfgqJqPTDpjPBnhBvvzcmLQqjPPCBxrHdzPFCSVpDcWqXtCkHBmzBxcjV" target="_blank"><img src="https://img.shields.io/badge/-Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div> 
  
 ### Main skills:
@@ -39,6 +40,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
@@ -47,7 +50,6 @@
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0D1117?style=for-the-badge&logo=nuxt.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Arduino]()&nbsp;
 
