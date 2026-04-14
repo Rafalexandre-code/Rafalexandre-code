@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/rafael-alexandre-b9359b268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/rafalexandrelopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/rafael.alexandre.54540218" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:rafael.alexandre@email.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:seu-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub (Links Corrigidos)
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafalexandre-code&show_icons=true&count_private=true&hide_border=true&title_color=2272FF&icon_color=2272FF&text_color=c9d1d9&bg_color=0d1117" />
@@ -140,7 +140,7 @@
   <a href="https://www.linkedin.com/in/rafael-alexandre-b9359b268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/rafalexandrelopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/rafael.alexandre.54540218" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:rafael.alexandre@email.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:seu-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
