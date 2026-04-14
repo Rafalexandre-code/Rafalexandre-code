@@ -117,22 +117,8 @@
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">Sistema de Gerenciamento de Estoque (Web)</h3>
-      <p align="center">
-        <a href="#" target="_blank"><img src="https://via.placeholder.com/300x150/0D1117/2272FF?text=EM+BREVE" /></a>
-      </p>
-      <p align="center">Aplicação full stack para controle de estoque, vendas e relatórios, desenvolvida com Laravel e Bootstrap.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-      </p>
-    </td>
   </tr>
 </table>
-
-*🔗 Você pode substituir os placeholders acima pelos seus repositórios reais!*
 
 ---
 
