@@ -26,15 +26,15 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github.com/user-attachments/assets/...seu-avatar-ou-gif..." width="200px" style="border-radius: 20px;" />
-      <!-- Sugestão: use uma imagem sua ou um gif animado relacionado à engenharia/IA -->
+      <!-- 👇 SUBSTITUA ESTE LINK PELA URL DA SUA FOTO DE PERFIL (Ex: GitHub Avatar) 👇 -->
+      <img src="https://ui-avatars.com/api/?name=Rafael+Alexandre&size=200&background=2272FF&color=fff&bold=true&length=2" width="200px" style="border-radius: 20px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub (Links Corrigidos)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafalexandre-code&show_icons=true&count_private=true&hide_border=true&title_color=2272FF&icon_color=2272FF&text_color=c9d1d9&bg_color=0d1117" />
@@ -115,6 +115,18 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Sistema de Gerenciamento de Estoque (Web)</h3>
+      <p align="center">
+        <a href="#" target="_blank"><img src="https://via.placeholder.com/300x150/0D1117/2272FF?text=EM+BREVE" /></a>
+      </p>
+      <p align="center">Aplicação full stack para controle de estoque, vendas e relatórios, desenvolvida com Laravel e Bootstrap.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       </p>
     </td>
   </tr>
