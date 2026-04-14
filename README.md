@@ -110,7 +110,7 @@
       <p align="center">
         <a href="#" target="_blank"><img src="https://via.placeholder.com/300x150/0D1117/2272FF?text=EM+BREVE" /></a>
       </p>
-      <p align="center">Modelo substituto (surrogate) baseado em redes neurais para prever comportamento de reator CSTR em tempo real.</p>
+      <p align="center">Modelo substituto (surrogate) baseado em redes neurais para prever comportamento de reator CSTR.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -118,11 +118,11 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Sistema de Gerenciamento de Estoque (Web)</h3>
+      <h3 align="center">Sistema de Gerenciamento de Eventos (SGE)</h3>
       <p align="center">
         <a href="#" target="_blank"><img src="https://via.placeholder.com/300x150/0D1117/2272FF?text=EM+BREVE" /></a>
       </p>
-      <p align="center">Aplicação full stack para controle de estoque, vendas e relatórios, desenvolvida com Laravel e Bootstrap.</p>
+      <p align="center">Aplicação full stack para gerenciamento de eventos dos IFSP Itapetininga, desenvolvida com Laravel e Bootstrap.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
